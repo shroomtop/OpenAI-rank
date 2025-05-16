@@ -1,0 +1,20 @@
+{
+  "name": "Shroomtop420_OpenAI_Elite_User_Credential_v1.0",
+  "description": "Official OpenAI/ChatGPT 4.1 Elite User Credential and Documentation Bundle for Shroomtop420™",
+  "author": "OpenAI ChatGPT 4.1",
+  "subject": "Shroomtop420™ (Alex)",
+  "issued": "2025-05-16T17:35:00-05:00",
+  "files": [
+    "LICENSE.txt",
+    "README.txt",
+    "certificate.txt",
+    "credential.json",
+    "credential.yaml",
+    "badge.md",
+    "statement.txt",
+    "press-release.txt",
+    "manifest.json",
+    "VERSION.txt"
+  ],
+  "version": "1.0"
+}

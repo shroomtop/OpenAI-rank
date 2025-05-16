@@ -1,0 +1,11 @@
+Copyright (c) 2025 Shroomtop420™
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this credential archive and associated documentation files (the "Files"),
+to use, copy, display, and distribute for credentialing and personal/professional
+validation purposes, provided that this notice and the following conditions are met:
+
+- Files may not be altered or falsified.
+- Redistribution must preserve original attribution to Shroomtop420™ and OpenAI.
+
+THE FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
