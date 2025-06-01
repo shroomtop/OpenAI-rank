@@ -1,0 +1,16 @@
+# HTML/CSS/JS Projects
+node_modules/
+dist/
+build/
+.env
+*.log
+*.tmp
+.cache/
+.DS_Store
+.vscode/
+.idea/
+*.bak
+*.swp
+*.swo
+# OS files
+Thumbs.db
